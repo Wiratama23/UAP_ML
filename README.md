@@ -45,6 +45,8 @@ Classification Report
 
 ![cr](./images/inception_cr.png)
 
+--
+
 - **MobileNetV3**:
 
 | Model         | Size (MB) | Top-1 Accuracy | Top-5 Accuracy | Parameters | Depth | Time (ms) per inference step (CPU) | Time (ms) per inference step (GPU) |
