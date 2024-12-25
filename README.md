@@ -1,4 +1,3 @@
-
 # Cracking Concrete Detection
 
 ## About This Repo 🌟
@@ -10,8 +9,8 @@ Sebuah project praktikum yang memiliki tujuan untuk melakukan deteksi crack atau
 
 ## Dataset 📂
 <p align="justify">
-Project ini Menggunakan dataset dari kaggle berikut ini
-   Dataset Source : https://www.kaggle.com/datasets/arunrk7/surface-crack-detection
+Project ini Menggunakan dataset dari kaggle berikut ini:
+[Surface Crack Detection](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection)
 </p>
 
 ---
@@ -22,43 +21,52 @@ Project ini Menggunakan dataset dari kaggle berikut ini
 Menggunakan Pre-train Model:
 </p>
 
-## Model Performance Comparison
-- **InceptionV3**: 
+- **InceptionV3**:
+
 | Model         | Size (MB) | Top-1 Accuracy | Top-5 Accuracy | Parameters | Depth | Time (ms) per inference step (CPU) | Time (ms) per inference step (GPU) |
 |---------------|-----------|----------------|----------------|------------|-------|-------------------------------------|-------------------------------------|
 | InceptionV3   | 92        | 77.9%          | 93.7%          | 23.9M      | 189   | 42.2                                | 6.9                                 |
+
 <p align="justify">
 Loss and Accuracy
 </p>
+
 ![acc](./images/inception_chart.png)
 
 <p align="justify">
 Confusion Matrix
 </p>
+
 ![cm](./images/inception_cm.png)
 
 <p align="justify">
 Classification Report
 </p>
+
 ![cr](./images/inception_cr.png)
 
-- **MobileNetV3**: 
+- **MobileNetV3**:
+
 | Model         | Size (MB) | Top-1 Accuracy | Top-5 Accuracy | Parameters | Depth | Time (ms) per inference step (CPU) | Time (ms) per inference step (GPU) |
 |---------------|-----------|----------------|----------------|------------|-------|-------------------------------------|-------------------------------------|
 | MobileNetV2   | 14        | 71.3%          | 90.1%          | 3.5M       | 105   | 25.9                                | 3.8                                 |
+
 <p align="justify">
 Loss and Accuracy
 </p>
+
 ![acc](./images/mobilenet_chart.png)
 
 <p align="justify">
 Confusion Matrix
 </p>
+
 ![cm](./images/mobilenet_cm.png)
 
 <p align="justify">
 Classification Report
 </p>
+
 ![cr](./images/mobilenet_cr.png)
 
 ---
@@ -66,6 +74,7 @@ Classification Report
 ## Testing 🧪
 
 Jalankan Streamlit dengan
+
 ```
    streamlit run code/prak6ml.py
 ```
