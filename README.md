@@ -68,6 +68,7 @@ Classification Report
 Jalankan Streamlit dengan
 ```
    streamlit run code/prak6ml.py
+```
 
 1. **Library Setup:**
    - Tensorflow.
