@@ -45,7 +45,7 @@ Classification Report
 - **MobileNetV3**: 
 | Model         | Size (MB) | Top-1 Accuracy | Top-5 Accuracy | Parameters | Depth | Time (ms) per inference step (CPU) | Time (ms) per inference step (GPU) |
 |---------------|-----------|----------------|----------------|------------|-------|-------------------------------------|-------------------------------------|
-| InceptionV3   | 14        | 71.3%          | 90.1%          | 3.5M       | 105   | 25.9                                | 3.8                                 |
+| MobileNetV2   | 14        | 71.3%          | 90.1%          | 3.5M       | 105   | 25.9                                | 3.8                                 |
 <p align="justify">
 Loss and Accuracy
 </p>
