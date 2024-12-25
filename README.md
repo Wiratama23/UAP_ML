@@ -94,7 +94,7 @@ Jalankan Streamlit dengan
    - Select model (MobilenetV2 / InceptionV3).
    - Click "Predict" dan Cek Hasil.
 
-3. **Download Model**
+3. **Download**
    [Models](https://drive.google.com/drive/folders/1NkXdmjIdPDN-hdYwG4iwgrSkM_i7vitL?usp=sharing)
 ---
 
