@@ -95,7 +95,7 @@ Jalankan Streamlit dengan
    - Click "Predict" dan Cek Hasil.
 
 3. **Download Model**
-   https://drive.google.com/drive/folders/1NkXdmjIdPDN-hdYwG4iwgrSkM_i7vitL?usp=sharing
+   [Models](https://drive.google.com/drive/folders/1NkXdmjIdPDN-hdYwG4iwgrSkM_i7vitL?usp=sharing)
 ---
 
 ## Contributing 🤝
