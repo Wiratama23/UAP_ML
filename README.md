@@ -1,5 +1,10 @@
 # Cracking Concrete Detection
 
+## Romadhon Wiratama
+## 202110370311471
+
+---
+
 ## About This Repo 🌟
 <p align="justify">
 Sebuah project praktikum yang memiliki tujuan untuk melakukan deteksi crack atau tidaknya sebuah beton. Model yang digunakan untuk melakukan pendeteksian ini adalah InceptionV3 dan MobileNetV3
